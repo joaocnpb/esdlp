@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="221px" height="378px" viewBox="0 0 221 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Piso0</title>
+    <g id="12maio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage-copy" transform="translate(-758.000000, -1547.000000)">
+            <g id="Piso0" transform="translate(759.000000, 1548.000000)">
+                <rect id="Rectangle-22" fill="#6B3F9E" x="171.362678" y="336.825435" width="47.8917529" height="39.6705512"></rect>
+                <rect id="Rectangle-22" fill="#6B3F9E" x="171.362678" y="297.903385" width="47.8917529" height="38.398099"></rect>
+                <polygon id="Rectangle-22" fill="#6B3F9E" points="144.423567 298.336634 170.785645 298.336634 170.785645 323.352417 144.423567 323.352417"></polygon>
+                <polygon id="Rectangle-21" fill="#6B3F9E" points="144.049413 336.825435 170.764032 336.825435 170.764032 375.897186 118.981074 375.897186 118.981074 356.931778 138.174206 356.931778 138.174206 340.480535 144.049413 340.480535"></polygon>
+                <polygon id="Rectangle-20" fill="#6B3F9E" points="48.3450552 336.825435 75.0772841 336.825435 75.0772841 341.161468 81.4375602 341.161468 81.4375602 356.863019 100.72666 356.863019 100.72666 375.897186 48.3450552 375.897186"></polygon>
+                <rect id="Rectangle-20" fill="#6B3F9E" x="73.3342466" y="83.8321082" width="116.736148" height="65.1195841"></rect>
+                <rect id="Rectangle-20" fill="#6B3F9E" x="73.3342466" y="240.616923" width="73.028684" height="43.0649433"></rect>
+                <rect id="Rectangle-20" fill="#6B3F9E" x="0.748308639" y="336.825435" width="47.8917529" height="39.071751"></rect>
+                <rect id="Rectangle-20" fill="#6B3F9E" x="0.748308639" y="297.903385" width="47.5967466" height="38.4729508"></rect>
+                <g id="linhas">
+                    <polyline id="Stroke-3" stroke="#8D8D8D" points="73.1932192 83.7343166 160.559692 83.7343166 189.752363 83.7343166 189.752363 149.072656 73.1932192 149.072656"></polyline>
+                    <path d="M160.348151,149.072656 L160.348151,83.7343166" id="Stroke-4" stroke="#8D8D8D"></path>
+                    <rect id="Rectangle-14" fill="#D8D8D8" x="47.8917529" y="297.903385" width="30.7741928" height="31.2686279"></rect>
+                    <rect id="Rectangle-13" fill="#D8D8D8" x="20.9526419" y="148.951692" width="41.9052838" height="60.6285783"></rect>
+                    <polygon id="Stroke-1" stroke="#8D8D8D" fill="#D8D8D8" points="62.5459327 298.145565 75.097089 298.145565 75.097089 306.744852 61.9815411 306.744852 61.9815411 322.955526 48.0198288 322.955526 48.0198288 336.629635 75.097089 336.629635 75.097089 340.858654 81.0904714 340.858654 81.0904714 356.717474 100.62333 356.717474 100.62333 376.241162 118.674555 376.241162 118.674555 356.717474 138.559418 356.717474 138.559418 340.858654 144.482568 340.858654 144.482568 336.559433 171.136747 336.559433 171.136747 323.519677 144.059486 323.519677 144.059486 298.145565 146.174897 298.145565 146.174897 283.978352 73.1932192 283.978352 73.1932192 53.9899365 62.5459327 53.9899365"></polygon>
+                    <polyline id="Stroke-5" stroke="#8D8D8D" points="73.1932192 240.912986 146.033588 240.912986 146.033588 283.977929"></polyline>
+                    <polyline id="Stroke-6" stroke="#8D8D8D" points="62.5459327 149.072656 21.1541096 149.072656 21.1541096 209.547623 62.5459327 209.547623"></polyline>
+                    <path d="M36.5966096,149.072656 L36.5966096,209.547623" id="Stroke-7" stroke="#8D8D8D"></path>
+                    <path d="M0.423082192,336.559433 L48.0198288,336.559433" id="Stroke-12" stroke="#8D8D8D"></path>
+                    <polyline id="Stroke-10" stroke="#8D8D8D" points="48.0198288 376.241162 48.0198288 336.629635 48.0198288 298.145565"></polyline>
+                    <polyline id="Stroke-8" stroke="#8D8D8D" points="62.5459327 298.145565 48.0198288 298.145565 0.423082192 298.145565 0.423082192 376.241162 100.62333 376.241162 219.156575 376.241162 219.156575 298.145565 146.174897 298.145565"></polyline>
+                    <path d="M171.136747,298.145565 L171.136747,376.241162" id="Stroke-14" stroke="#8D8D8D"></path>
+                    <path d="M171.136747,336.559433 L219.156575,336.559433" id="Stroke-16" stroke="#8D8D8D"></path>
+                    <polyline id="Stroke-19" stroke="#8D8D8D" points="61.9815411 312.101327 70.9364988 312.101327 70.9364988 322.955526 62.0517727 322.955526"></polyline>
+                    <polyline id="Stroke-20" stroke="#8D8D8D" points="75.097089 298.145565 102.333428 298.145565 102.333428 317.228589 75.097089 317.228589 75.097089 306.744852"></polyline>
+                    <polyline id="Stroke-21" stroke="#8D8D8D" points="144.059486 298.145565 117.193767 298.145565 117.193767 317.228589 144.059486 317.228589"></polyline>
+                    <polyline id="Stroke-22" stroke="#8D8D8D" stroke-dasharray="10" points="0.423082192 298.1464 0.423082192 53.9900867 0.423082192 0.422648129 219.368116 0.422648129 219.368116 298.1464"></polyline>
+                    <path d="M52.973291,53.8920696 L0.748308639,53.8920696" id="Stroke-24" stroke="#8D8D8D" stroke-dasharray="10"></path>
+                    <path d="M206.415234,53.8920696 L78.6659456,53.8920696" id="Stroke-24" stroke="#8D8D8D" stroke-dasharray="10"></path>
+                    <path d="M100.62333,356.928925 L118.674555,356.928925" id="Stroke-27" stroke="#8D8D8D"></path>
+                    <polyline id="Stroke-28" stroke="#8D8D8D" points="100.62333 362.162336 118.674555 362.162336 118.674555 367.131433 100.62333 367.131433"></polyline>
+                    <path d="M82.571259,307.687246 L102.332582,307.687246" id="Stroke-29" stroke="#8D8D8D"></path>
+                    <path d="M117.193767,307.687246 L136.091156,307.687246" id="Stroke-30" stroke="#8D8D8D"></path>
+                    <path d="M98.013759,298.145565 L98.013759,317.228589" id="Stroke-31" stroke="#8D8D8D"></path>
+                    <path d="M94.153134,317.229012 L94.153134,298.145988" id="Stroke-32" stroke="#8D8D8D"></path>
+                    <path d="M90.292509,317.229012 L90.292509,298.145988" id="Stroke-33" stroke="#8D8D8D"></path>
+                    <path d="M86.431884,317.229012 L86.431884,298.145988" id="Stroke-34" stroke="#8D8D8D"></path>
+                    <path d="M82.571259,317.229012 L82.571259,298.145988" id="Stroke-35" stroke="#8D8D8D"></path>
+                    <path d="M136.091156,298.145565 L136.091156,317.228589" id="Stroke-36" stroke="#8D8D8D"></path>
+                    <path d="M132.230531,317.229012 L132.230531,298.145988" id="Stroke-37" stroke="#8D8D8D"></path>
+                    <path d="M128.369906,317.229012 L128.369906,298.145988" id="Stroke-38" stroke="#8D8D8D"></path>
+                    <path d="M124.509281,317.229012 L124.509281,298.145988" id="Stroke-39" stroke="#8D8D8D"></path>
+                    <path d="M120.648656,317.229012 L120.648656,298.145988" id="Stroke-40" stroke="#8D8D8D"></path>
+                </g>
+                <g id="WCS" transform="translate(41.817738, 165.440132)" font-weight="400" font-family="Montserrat-Medium, Montserrat" fill="#8D8D8D">
+                    <text id="wc" transform="translate(12.977163, 144.436459) rotate(-90.000000) translate(-12.977163, -144.436459) " font-size="8" letter-spacing="1">
+                        <tspan x="6.60116254" y="147.436459">w</tspan>
+                        <tspan x="14.8411625" y="147.436459">c</tspan>
+                    </text>
+                    <text id="wc" transform="translate(6.979227, 13.336826) rotate(-90.000000) translate(-6.979227, -13.336826) " font-size="10" letter-spacing="1.25">
+                        <tspan x="-1.67702259" y="16.836826">w</tspan>
+                        <tspan x="8.43297741" y="16.836826" letter-spacing="1.5625">c</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

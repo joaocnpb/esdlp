@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="378px" viewBox="0 0 222 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Piso-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="12maio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage-copy" transform="translate(-758.000000, -2714.000000)">
+            <g id="Piso-1" transform="translate(759.000000, 2715.000000)">
+                <polygon id="Rectangle-19" fill="#6B3F9E" points="145.170068 335.986395 219.251701 335.986395 219.251701 375.646259 145.170068 375.646259"></polygon>
+                <polygon id="Rectangle-19" fill="#6B3F9E" points="157.48175 303.061224 219.251701 303.061224 219.251701 336.136055 157.48175 336.136055"></polygon>
+                <polygon id="Rectangle-19" fill="#6B3F9E" points="0.33889325 303.061224 49.459707 303.061224 49.459707 336.136055 0.33889325 336.136055"></polygon>
+                <polygon id="Rectangle-19" fill="#6B3F9E" points="0.33889325 336.734694 74.4205259 336.734694 74.4205259 376.394558 0.33889325 376.394558"></polygon>
+                <rect id="Rectangle-12" fill="#D8D8D8" x="73.8184118" y="336.228491" width="71.0639934" height="40.1660664"></rect>
+                <polyline id="Line" stroke="#FFFFFF" stroke-linecap="square" points="0.74829932 302.780707 0.74829932 0 219.578362 0 219.578362 303.959193"></polyline>
+                <g id="wcs" transform="translate(77.000000, 349.000000)" font-size="10" font-family="Montserrat-Medium, Montserrat" letter-spacing="0.625" fill="#8D8D8D" font-weight="400">
+                    <text id="wc">
+                        <tspan x="8.07899617" y="10.9097639">wc</tspan>
+                    </text>
+                    <text id="wc">
+                        <tspan x="43.4373184" y="10.9097639">wc</tspan>
+                    </text>
+                </g>
+                <polygon id="Stroke-24" stroke="#8D8D8D" fill="#D8D8D8" points="18.1304291 283.278483 70.6243459 283.278483 70.6243459 302.870779 146.940803 302.870779 146.940803 310.244224 147.994898 310.244224 147.994898 327.519152 71.4676217 327.519152 71.4676217 325.412453 61.1374935 325.412453 61.1374935 310.244224 62.1915882 310.244224 62.1915882 298.868052 18.1304291 298.868052"></polygon>
+                <path d="M0.843275772,336.367286 L49.9640895,336.367286" id="Stroke-3" stroke="#8D8D8D"></path>
+                <path d="M73.997449,336.613348 L73.997449,376.148495" id="Stroke-5" stroke="#8D8D8D"></path>
+                <path d="M109.415031,336.367286 L109.415031,375.973218" id="Stroke-7" stroke="#8D8D8D"></path>
+                <path d="M157.48175,336.367286 L219.251701,336.367286" id="Stroke-9" stroke="#8D8D8D"></path>
+                <path d="M62.1915882,310.244224 L146.940803,310.244224" id="Stroke-12" stroke="#8D8D8D"></path>
+                <path d="M62.1915882,302.870779 L70.6243459,302.870779" id="Stroke-13" stroke="#8D8D8D"></path>
+                <path d="M41.8125642,298.868052 L41.8125642,283.278483" id="Stroke-14" stroke="#8D8D8D"></path>
+                <path d="M35.9096338,298.868052 L35.9096338,283.278483" id="Stroke-16" stroke="#8D8D8D"></path>
+                <path d="M30.5687467,298.868052 L30.5687467,283.278483" id="Stroke-18" stroke="#8D8D8D"></path>
+                <path d="M24.103773,298.868052 L24.103773,283.278483" id="Stroke-20" stroke="#8D8D8D"></path>
+                <polyline id="Stroke-23" stroke="#8D8D8D" points="61.1374935 313.966339 70.6243459 313.966339 70.6243459 325.412453"></polyline>
+                <path d="M144.973441,336.613348 L144.973441,375.973218" id="Stroke-26" stroke="#8D8D8D"></path>
+                <polygon id="Stroke-1" stroke="#8D8D8D" points="0.421637886 302.870779 49.5424516 302.870779 49.5424516 336.367286 157.48175 336.367286 157.48175 302.870779 219.251701 302.870779 219.251701 375.973218 0.421637886 375.973218"></polygon>
+                <polygon id="Stroke-24" stroke="#8D8D8D" points="18.1304291 283.278483 70.6243459 283.278483 70.6243459 302.870779 146.940803 302.870779 146.940803 310.244224 147.994898 310.244224 147.994898 327.519152 71.4676217 327.519152 71.4676217 325.412453 61.1374935 325.412453 61.1374935 310.244224 62.1915882 310.244224 62.1915882 298.868052 18.1304291 298.868052"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

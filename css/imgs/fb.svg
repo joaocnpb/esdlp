@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="12maio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage-copy-2" transform="translate(-924.000000, -6891.000000)">
+            <g id="fb" transform="translate(925.000000, 6892.000000)">
+                <polygon id="Fill-1" stroke="#FFFFFF" points="0 30 30 30 30 0 0 0"></polygon>
+                <path d="M26.16368,17.9586 L26.75568,13.3666 L22.20848,13.3666 L22.20848,10.4346 C22.20848,9.1054 22.57928,8.1994 24.48568,8.1994 L26.91528,8.1978 L26.91528,4.091 C26.49568,4.035 25.05368,3.9098 23.37248,3.9098 C19.86648,3.9098 17.46768,6.0502 17.46768,9.9806 L17.46768,13.3666 L13.50208,13.3666 L13.50208,17.9586 L17.46768,17.9586 L17.46768,29.741 L22.20848,29.741 L22.20848,17.9586 L26.16368,17.9586 Z" id="Fill-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
